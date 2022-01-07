@@ -25,8 +25,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giorgiocost&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiocost&layout=compact&langs_count=16&theme="/>
    
- ![Snake animation](https://github.com/giorgiocost/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<div>
  
 
  
